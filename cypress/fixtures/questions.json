@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "1",
+    "question": "What is the virtual DOM in React?",
+    "answers": [
+      {
+        "text": "A lightweight copy of the actual DOM",
+        "isCorrect": true
+      },
+      {
+        "text": "A special browser feature for React",
+        "isCorrect": false
+      },
+      {
+        "text": "A direct manipulation of the browser DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "A server-side rendering technique",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "What is Express.js?",
+    "answers": [
+      {
+        "text": "A front-end JavaScript library",
+        "isCorrect": false
+      },
+      {
+        "text": "A database management system",
+        "isCorrect": false
+      },
+      {
+        "text": "A Node.js web application framework",
+        "isCorrect": true
+      },
+      {
+        "text": "A testing library for JavaScript",
+        "isCorrect": false
+      }
+    ]
+  }
+]
