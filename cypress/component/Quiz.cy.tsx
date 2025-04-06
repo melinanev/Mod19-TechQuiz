@@ -2,6 +2,7 @@
 /// <reference types="@testing-library/cypress" />
 /// <reference path="../support/component-tests.d.ts" />
 
+import React from 'react';
 import Quiz from '../../client/src/components/Quiz';
 
 describe('Quiz Component', () => {

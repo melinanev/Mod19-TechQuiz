@@ -22,3 +22,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+.env
+.env.local
+.env.test
+.env.test.local
+
+
+# Cypress
+.env.cypress
+.env.cypress.local
+.env.cypress.example
+.env.cypress.test
+.env.cypress.test.local
+.env.cypress.test.example
