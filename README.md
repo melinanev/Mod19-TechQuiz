@@ -33,7 +33,7 @@ THEN I can start a new quiz
 ## Installation
 
 ```bash
-npm install
+npm render-build
 ```
 
 ## Usage
@@ -54,13 +54,13 @@ Melina Nevarez
 
 ## Tests
 
-To run end-to-end and component tests in headless mode, run:
+With the server running, run end-to-end and component tests in headless mode, run:
 
 ```bash
 npm run test
 ``` 
 
-To run end-to-end and component tests in the Cypress UI, run:
+Then with the server running, run end-to-end and component tests in the Cypress UI, run:
 
 ```bash
 npm run cypress:open
@@ -73,3 +73,4 @@ If you have any questions about the project, you can reach me at:
 - GitHub: [melinanev](https://github.com/melinanev)
 - Email: [melina.l.nevarez@gmail.com](mailto:melina.l.nevarez@gmail.com)
 - GitHub Repository (https://github.com/melinanev/Mod19-TechQuiz.git)
+- Video [Tech Quiz](https://www.loom.com/share/fb4df96bdcf64646b220e055cb0614c0?sid=07633bdc-8a15-473b-a109-daf95aec3908)
